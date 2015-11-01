@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WeatherServiceLab">
+    <output-path>$PROJECT_DIR$/out/artifacts/WeatherServiceLab</output-path>
+    <root id="root" />
+  </artifact>
+</component>
