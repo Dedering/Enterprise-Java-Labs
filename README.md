@@ -1,1 +1,1 @@
-# Enterprise-Java---Labs
+# Lab Excercises for Enterprise Java
